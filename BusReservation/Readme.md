@@ -1,4 +1,4 @@
-# BusReservationJavaRESTAPI
+# Bus Reservation Java REST API
 REST APIs for Bus Reservations Developed using Java
 
 This was done during 2020 as a part of my interview with Paypal. The project was approved and was selected for next round with Paypal.
